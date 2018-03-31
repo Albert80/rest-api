@@ -4,13 +4,13 @@
 ***
 ### Packages which will be in dependencies:
 
-1. morgan
-2. body-parser
+1. express 
+2. morgan
 3. errorhandler
 4. body-parser
 5. node-dev
 
-To install them: `npm i express morgan errorhandler -E`
+To install them: `npm i express morgan errorhandler body-parser -E`
 To install node-dev `npm i node-dev -DE`
 ***
 
